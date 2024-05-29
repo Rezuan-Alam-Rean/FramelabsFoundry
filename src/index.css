@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    scroll-behavior: smooth;
+    height: 100%;
+    font-family: "Josefin Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .slick-slide > div {
+    margin: 20px 20px;
+    
+}
+  
